@@ -3,7 +3,7 @@
 - 💻 Atualemnte faço Desenvolvimento de Sistemas e faço alguns cursos de programação!
 - ⌚ Estou estudando para ser um programador back-end;
 
-## Ferramentas e Tecnologias<img src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">" width="40" height="40" src="<link rel="stylesheet" href="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">>" width="40" height="40"/>
+## Ferramentas e Tecnologias <img src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">" width="40" height="40" src="<link rel="stylesheet" href="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">>" width="40" height="40"/>
 
 
 <!--
