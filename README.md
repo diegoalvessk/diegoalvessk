@@ -1,6 +1,9 @@
-### Hi there 👋
 
-# Olá, me chamo Diego Alves Teixeira ! Bem vindo ao meu perfil GitHub 👋
+# Hello, me chamo Diego Alves Teixeira! Bem vindo ao meu perfil GitHub 👋
+- 💻 Atualemnte faço Desenvolvimento de Sistemas e faço alguns cursos de programação!
+- ⌚ Estou aprendendo algumas novas linguagens como react
+
+
 <!--
 **diegoalvessk/diegoalvessk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
