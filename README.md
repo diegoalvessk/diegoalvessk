@@ -3,7 +3,7 @@
 - 💻 Atualemnte faço Desenvolvimento de Sistemas e faço alguns cursos de programação!
 - ⌚ Estou estudando para ser um programador back-end;
 
-## Ferramentas e Tecnologias<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> width="40" height="40"/>
+## Ferramentas e Tecnologias<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> width="4" height="4"/>
 
 
 <!--
