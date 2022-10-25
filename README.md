@@ -1,6 +1,6 @@
 
 # Hello, me chamo Diego Alves Teixeira! Bem vindo ao meu perfil GitHub 👋
-- 💻 Atualemnte faço Desenvolvimento de Sistemas e faço alguns cursos de programação!
+- 💻 Atualmente faço Desenvolvimento de Sistemas e alguns cursos de programação!
 - ⌚ Estou estudando para ser um programador back-end;
 
 ## Ferramentas e Tecnologias
