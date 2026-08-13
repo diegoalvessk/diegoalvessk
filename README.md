@@ -1,188 +1,38 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=DIEGO%20ALVES&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,50:6d28d9,100:a855f7&text=DIEGO%20ALVES&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;REACT+%7C+NODE.JS+%7C+TYPESCRIPT;BUILDING+SOLUTIONS+WITH+CODE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;BACKEND+%7C+NODE.JS+%7C+TYPESCRIPT;BUILDING+SOLUTIONS+WITH+CODE"/>
 
 </div>
-
----
-
-## 🤖 DIEGO AI CORE
-
-```bash
-╭────────────────────────────╮
-│     DIEGO SYSTEM v2.0      │
-╰────────────────────────────╯
-
-Initializing system...
-
-████████████████████ 100%
-
-✔ Software Engineer detected
-✔ Developer environment loaded
-✔ Full Stack capabilities enabled
-✔ Projects loaded
-✔ Continuous learning activated
-
-STATUS: ONLINE 🚀
-```
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at **Universidade Federal de Ouro Preto (UFOP)** and a Software Developer passionate about building practical and scalable solutions.
+I'm a Computer Science student at **Universidade Federal de Ouro Preto (UFOP)** and a Software Developer focused on building practical and scalable applications.
 
-I have experience developing web applications, REST APIs, integrating external services and automating processes using **React, Node.js and TypeScript**.
+I have professional experience with **React, Node.js, TypeScript, REST APIs, external integrations and data-driven applications**.
 
-My background also includes research and software engineering experience, working with data analysis, requirements, testing, Agile/Scrum and collaborative development.
+Currently, I'm deepening my knowledge in **Backend Development, Node.js, TypeScript, databases, APIs and software engineering**.
 
 ```javascript
 const Diego = {
-
-  name: "Diego Alves Teixeira",
-
   role: "Software Engineer / Full Stack Developer",
-
-  location: "Ouro Preto, Brazil 🇧🇷",
-
   education: "Computer Science @ UFOP",
-
   focus: [
-    "Software Engineering",
-    "Web Development",
     "Backend Development",
-    "APIs & Integrations",
-    "Artificial Intelligence"
-  ],
-
-  technologies: {
-    frontend: [
-      "React",
-      "JavaScript",
-      "TypeScript",
-      "HTML",
-      "CSS"
-    ],
-
-    backend: [
-      "Node.js",
-      "REST APIs",
-      "Python"
-    ],
-
-    databases: [
-      "PostgreSQL",
-      "MySQL",
-      "SQL"
-    ],
-
-    languages: [
-      "JavaScript",
-      "TypeScript",
-      "Python",
-      "C++"
-    ]
-  },
-
-  tools: [
-    "Git",
-    "GitHub"
-  ],
-
-  methodologies: [
-    "Agile",
-    "Scrum"
-  ],
-
-  passion:
-  "Turning problems into software solutions 🚀"
-
-}
+    "Node.js & TypeScript",
+    "REST APIs",
+    "Databases",
+    "Software Engineering"
+  ]
+};
 ```
 
 ---
 
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,cpp,postgres,mysql,git,github&perline=6"/>
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🔬 Undergraduate Research Scholar
-
-**CEFET-MG — Campus Timóteo**
-
-* Collected, processed and analyzed data to identify geographic patterns.
-* Translated business requirements into technical solutions for data visualization and exploration.
-* Developed a web application using **React** and **Node.js**.
-* Designed and implemented **REST APIs** for application integration.
-* Worked with **Git** in a collaborative development environment.
-* Participated in functional validation and testing.
-* Produced technical documentation and system flows.
-
-### 💻 Software Engineering Intern
-
-**IVijur — Belo Horizonte, MG**
-
-* Developed and maintained an application for **legal process automation**.
-* Integrated external services through **APIs**, including WhatsApp.
-* Implemented features using **React and Node.js**, focusing on scalability and performance.
-* Built and consumed **REST APIs** for system integration.
-* Identified and fixed bugs while continuously improving the application.
-* Participated in **Agile/Scrum** routines, including daily meetings, sprint planning and retrospectives.
-* Performed functional testing to validate deliveries.
-* Worked collaboratively with stakeholders to translate requirements into technical solutions.
-* Contributed to a solution responsible for **more than 200,000 hours of operational work saved**.
-
----
-
-## 🚀 Projects
-
-<div align="center">
-
-|        Project       | Description         |
-| :------------------: | ------------------- |
-|     💄 **Divine**    | Beauty E-commerce   |
-|    ⚡ **Core Sync**   | Business Dashboard  |
-|   🌿 **Nutre Care**  | Eco Makeup Brand    |
-|  🌸 **Mosaico Rosa** | AI-powered project  |
-|  🌊 **Mar & Brisa**  | Modern Landing Page |
-| 🎵 **Projeto Music** | Music Experience    |
-| 🌍 **Milton Santos** | Educational Website |
-
-</div>
-
-> 🚧 More projects coming soon...
-
----
-
-## 🧠 Current Mission
-
-```bash
-> Loading objectives...
-
-[██████████] Software Engineering
-[██████████] React Development
-[█████████░] Backend Development
-[████████░░] REST APIs & Integrations
-[███████░░░] Artificial Intelligence
-[██████████] Building Projects
-
-STATUS:
-Always learning. Always building. 🚀
-```
-
----
-
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -190,11 +40,11 @@ Always learning. Always building. 🚀
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp"/>
 
-### Front-end
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
 
-### Back-end & Databases
+### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql"/>
 
@@ -206,62 +56,67 @@ Always learning. Always building. 🚀
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Experience
 
-<div align="center">
+### 🔬 Undergraduate Research Scholar — CEFET-MG
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diegohonoPato&show_icons=true&theme=tokyonight&hide_border=true"/>
+* Developed web applications using **React and Node.js**.
+* Designed and implemented **REST APIs** for system integration.
+* Collected, processed and analyzed data to identify geographic patterns.
+* Worked with **Git, testing, documentation and collaborative development**.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohonopato&layout=compact&theme=tokyonight&hide_border=true"/>
+### 💻 Software Engineering Intern — IVijur
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diegohonopato&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=diegohonopato&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
+* Developed and maintained software for **legal process automation**.
+* Integrated external services through **REST APIs and WhatsApp**.
+* Implemented features using **React and Node.js**.
+* Worked with stakeholders to translate requirements into technical solutions.
+* Participated in **Agile/Scrum**, testing, debugging and continuous improvements.
+* Contributed to a solution responsible for **more than 200,000 hours of operational work saved**.
 
 ---
 
-## 🐍 Contribution Animation
+## 🚀 Projects
 
-<div align="center">
+### 💄 Divine
 
-<img src="https://raw.githubusercontent.com/diegohonopato/diegohonopato/output/github-contribution-grid-snake-dark.svg"/>
+Beauty e-commerce platform.
 
-</div>
+### ⚡ Core Sync
+
+Business dashboard focused on data visualization and analysis.
+
+### 🌸 Mosaico Rosa
+
+AI-powered project focused on solving a real-world problem.
+
+> More projects and backend applications coming soon.
 
 ---
 
 ## 🎓 Education
 
-### Universidade Federal de Ouro Preto — UFOP
+**Universidade Federal de Ouro Preto (UFOP)**
+Computer Science — 2025–2029
 
-**Computer Science**
-Sep 2025 — Jul 2029
+**CEFET-MG — Campus Timóteo**
+Technical Degree in Systems Development — 2019–2022
 
-### PUC Minas
+---
 
-**Software Engineering — Incomplete**
-Feb 2023 — Jun 2025
+## 📚 Currently Learning
 
-### CEFET-MG — Campus Timóteo
-
-**Technical Degree in Systems Development**
-Jan 2019 — Dec 2022
+```text
+Node.js
+TypeScript
+REST APIs
+PostgreSQL
+Prisma
+Authentication
+Testing
+Docker
+Software Architecture
+```
 
 ---
 
@@ -269,7 +124,7 @@ Jan 2019 — Dec 2022
 
 <div align="center">
 
-<a href="https://github.com/diegohonoPato">
+<a href="https://github.com/diegohonopato">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
@@ -287,10 +142,6 @@ Jan 2019 — Dec 2022
 
 <div align="center">
 
-### 💜 "Turning problems into software solutions."
-
-<img src="https://komarev.com/ghpvc/?username=diegohonopato&style=for-the-badge&color=8A2BE2"/>
+### 💜 Turning problems into software solutions.
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
