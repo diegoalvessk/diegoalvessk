@@ -54,38 +54,6 @@ const Diego = {
 
 </div>
 
----
-
-## 💼 Experience
-
-### 🔬 Undergraduate Research Scholar — CEFET-MG
-
-* Developed web applications using **React and Node.js**.
-* Designed and implemented **REST APIs** for system integration.
-* Collected, processed and analyzed data to identify geographic patterns.
-* Worked with **Git, testing, documentation and collaborative development**.
-
-### 💻 Software Engineering Intern — IVijur
-
-* Developed and maintained software for **legal process automation**.
-* Integrated external services through **REST APIs and WhatsApp**.
-* Implemented features using **React and Node.js**.
-* Worked with stakeholders to translate requirements into technical solutions.
-* Participated in **Agile/Scrum**, testing, debugging and continuous improvements.
-* Contributed to a solution responsible for **more than 200,000 hours of operational work saved**.
-
----
-
-## 🎓 Education
-
-**Universidade Federal de Ouro Preto (UFOP)**
-Computer Science — 2025–2029
-
-**CEFET-MG — Campus Timóteo**
-Technical Degree in Systems Development — 2019–2022
-
----
-
 ## 🌎 Connect With Me
 
 <div align="center">
