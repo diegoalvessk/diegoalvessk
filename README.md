@@ -76,24 +76,6 @@ const Diego = {
 
 ---
 
-## 🚀 Projects
-
-### 💄 Divine
-
-Beauty e-commerce platform.
-
-### ⚡ Core Sync
-
-Business dashboard focused on data visualization and analysis.
-
-### 🌸 Mosaico Rosa
-
-AI-powered project focused on solving a real-world problem.
-
-> More projects and backend applications coming soon.
-
----
-
 ## 🎓 Education
 
 **Universidade Federal de Ouro Preto (UFOP)**
@@ -104,31 +86,15 @@ Technical Degree in Systems Development — 2019–2022
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Node.js
-TypeScript
-REST APIs
-PostgreSQL
-Prisma
-Authentication
-Testing
-Docker
-Software Architecture
-```
-
----
-
 ## 🌎 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/diegohonopato">
+<a href="https://github.com/diegoalvessk">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/diegoalvesteixeira">
+<a href="https://linkedin.com/in/diegoalvessk">
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -142,6 +108,6 @@ Software Architecture
 
 <div align="center">
 
-### 💜 Turning problems into software solutions.
+### Turning problems into software solutions.
 
 </div>
